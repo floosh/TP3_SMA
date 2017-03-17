@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/agent/AgentLeader.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/environment/AnimatPerception.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/environment/ObjectDescription.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/agent/StandardAgent.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/gui/GUI.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/agent/behaviour/SeekBehaviour.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/agent/AgentFollower.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/agent/behaviour/steering/SteeringBehaviourOutput.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/Simulation.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/environment/objet/PerceptionType.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/environment/WorldModel.java</file>
+            <file>file:/home/win/NetBeansProjects/TP3_SMA_FollowMe/src/fr/disp/polytech/sma/tp1/sma/environment/objet/StandardEntity.java</file>
+        </group>
+    </open-files>
+</project-private>
